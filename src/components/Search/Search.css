@@ -1,0 +1,10 @@
+.search{
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 30px;
+}
+.search input{
+    width: 100%;
+    background: transparent;
+    border-radius: 30px;
+    padding: 12px 30px;
+}

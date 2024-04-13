@@ -1,0 +1,15 @@
+.filter {
+   
+}
+
+.filter select{
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 30px;
+    width: 100%;
+    border-radius: 30px;
+    padding: 12px 30px;
+}
+
+.filter select option{
+    background: rgb(31, 25, 25);
+}
